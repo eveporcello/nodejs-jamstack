@@ -29,10 +29,13 @@ const song = singTo({
   }
 });
 
-const theSinging = setInterval(() => {
-  const { done = false } = song.next();
-  if (done) {
-    clearInterval(theSinging);
-    console.log("the singing has ended");
-  }
-}, 2000);
+song.next();
+song.next();
+
+// const theSinging = setInterval(() => {
+//   const { done = false } = song.next();
+//   if (done) {
+//     clearInterval(theSinging);
+//     console.log("the singing has ended");
+//   }
+// }, 2000);
