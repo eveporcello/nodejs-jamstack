@@ -18,7 +18,7 @@ Welcome to this course! We're so glad you're here. In this repo, you'll find all
 
 ## Slides
 
-- [Course Files](https://slides.com/moonhighway/nodejs-jamstack/)
+- [Course Slides](https://slides.com/moonhighway/nodejs-jamstack/)
 - [Node.js Event Loop Slides](https://docs.google.com/presentation/d/1kV-kdTuHJ0geVoy5hiQwiP8GkU2wy4kQawqUYB3A9OY/edit?usp=sharing)
 
 ## Using these Files 🗂
