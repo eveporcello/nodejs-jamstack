@@ -16,6 +16,11 @@ Welcome to this course! We're so glad you're here. In this repo, you'll find all
 - Streams
 - HTTP Streams
 
+## Instructor Info
+
+- Eve Porcello, eve@moonhighway.com, @eveporcello
+- [Moon Highway](https://moonhighway.com)
+
 ## Slides
 
 - [Course Slides](https://slides.com/moonhighway/nodejs-jamstack/)
