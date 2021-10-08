@@ -41,3 +41,10 @@ You can expect the course to follow this schedule:
 | 11:00-11:10 | Break    | 10min  |
 | 12:00-12:10 | Break    | 10min  |
 | 1:00        | End      |
+
+
+## Other Resources
+
+* [Node.js Promises](https://nodejs.dev/learn/understanding-javascript-promises)
+* [Async Iteration in JavaScript](https://alanstorm.com/async-generators-and-async-iteration-in-node-js/)
+* [TypeScript with Node](https://nodejs.dev/learn/nodejs-with-typescript)
